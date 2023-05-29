@@ -1,8 +1,19 @@
-.banner {
-  background: url(images/2.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  padding-top: 25%;
-  padding-bottom: 25%;
-  color: #0b0c0f;
+.jumbotron {
+  padding: 2rem 1rem;
+  border-bottom: 1px solid whitesmoke;
+}
+body {
+  background-color: #bae8f8;
+}
+#about {
+  border-bottom: 1px solid whitesmoke;
+}
+#services {
+  border-bottom: 1px solid whitesmoke;
+}
+section {
+  padding-top: 3rem;
+}
+#jumbotron {
+  padding-top: 5rem;
 }
